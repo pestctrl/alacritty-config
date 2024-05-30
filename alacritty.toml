@@ -13,5 +13,6 @@ bindings = [
   # { mods = "Control", key = "Space", chars = "\u001b[27;5;32~" },
   { mods = "Control", key = "Space", chars = "\u001b[emacs-C-SPC" },
   { mods = "Control", key = "Period", chars = "\u001b[emacs-C-." },
+  { mods = "Control", key = "Comma", chars = "\u001b[emacs-C-," },
   { mods = "Control", key = "/", chars = "\u001b[emacs-C-/" },
 ]
